@@ -40,6 +40,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [PSpider](https://github.com/xianhu/PSpider) - A simple spider frame in Python3.
 * [Gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio for everyone.
 * [sukhoi](https://github.com/iogf/sukhoi) - Minimalist and powerful Web Crawler.
+* [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
 * [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio. 
